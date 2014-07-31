@@ -25,6 +25,8 @@ heroku run rake db:migrate
 heroku open
 ```
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Documentation
 
 For more information about using Ruby on Heroku, see these Dev Center articles:
